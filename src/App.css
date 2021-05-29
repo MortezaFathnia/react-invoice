@@ -1,0 +1,12 @@
+body {
+  direction: ltr;
+  font-size: 12px;
+  color: #303842;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  outline: none;
+  box-sizing: border-box;
+}

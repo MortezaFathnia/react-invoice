@@ -1,0 +1,23 @@
+.headerList {
+  background: rgb(96, 125, 139);
+  margin: 2rem 2rem 0 2rem;
+  padding: 0 2rem;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+.InvoiceList {
+  display: flex;
+  flex-direction: column;
+  margin:0 2rem 0 2rem;
+
+  .InvoiceItem {
+    width: 100%;
+    padding: 0 2rem;
+    border: 1px solid orange;
+    display: flex;
+    justify-content: space-between;
+  }
+}

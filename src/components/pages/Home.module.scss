@@ -1,0 +1,17 @@
+.logo {
+  background: url('../../assets/img/logo.png') no-repeat 0 100%;
+  background-size: cover;
+  width: 150px;
+  height: 150px;
+}
+.headerWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 2rem;
+}
+.header {
+    border: 6px double orange;
+    display: inline-block;
+    padding: 1rem 2rem;
+}
